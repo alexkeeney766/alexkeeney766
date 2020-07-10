@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: 
   - React, specifically to build interfaces for interactive NLP models and applications.
 - 💬 Ask me about:
-  - I'm pretty handy with python, always happy to help if you need. I should at least be able to point you in the right direction. Always happy to help!
+  - I'm pretty handy with python and am always happy to help! I should at least be able to point you in the right direction. Always happy to help!
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/alex-keeney-NLP
   - Twitter: https://twitter.com/Alexkeeney766
