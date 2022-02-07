@@ -1,8 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: 
   - Mostly propritary NLP projects for my job.
+  - A Rasa Chat bot for answering common Windows and MacOS related questions
 - 🌱 I’m currently learning: 
   - Chat bots with RASA, RL algorithms and OpenAI `gym` environments
+  - Docker, Microservices, and CI/CD
 - 💬 Ask me about:
   - I'm pretty handy with python and am always happy to help! I should at least be able to point you in the right direction.
 - 📫 How to reach me:
