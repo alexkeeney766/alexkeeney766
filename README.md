@@ -1,19 +1,16 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: 
-  - Mostly propritary NLP projects for my job.
-  - A Rasa Chat bot for answering common Windows and MacOS related questions
+  - Mostly propritary ML projects for my job.
 - 🌱 I’m currently learning: 
-  - Chat bots with RASA, RL algorithms and OpenAI `gym` environments
-  - Docker, Microservices, and CI/CD
+  - Just finished my Masters, taking a break
 - 💬 Ask me about:
-  - I'm pretty handy with python and am always happy to help! I should at least be able to point you in the right direction.
+  - Python: general, API's and services
+  - ML: NLP, RL, Scientific computing with various packages (NumPy, Pandas, PyTorch)
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/alex-keeney-NLP
   - Twitter: https://twitter.com/Alexkeeney766
   - Email: Alex.keeney766@gmail.com
-  
 - 😄 Pronouns: 
   - Him, His, etc...
 - ⚡ Fun fact: 
-  - I'm also pursuing a masters degree at Georgia Tech.
   - I've recently taken my Wife's last name: Keeney -> Davis!
